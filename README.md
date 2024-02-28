@@ -2,7 +2,7 @@
 
 Neural-Net-Viz
 
-Interactive Neural Network built with Processing, a JavaScript library. The goal is being able to change parameters and hyperparameters in learning time to ease understand of some properties of Neural Networks.
+Interactive Neural Network built with Processing, a JavaScript library. The goal is being able to change parameters and hyperparameters in learning time to ease understanding of some properties of Neural Networks.
 
 ## Project Status
 
